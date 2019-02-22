@@ -1,0 +1,27 @@
+body{
+    background: blanchedalmond;
+    margin: 0.5in;
+}
+h1{
+    line-height: 2cm;
+}
+p{
+    word-spacing: 4mm; /*Los parrafos se separan 4mm entre si*/
+}
+a{
+    font-size: 12pt; /*Muestra un tamaño de letra de 12 puntos */
+}
+span{
+    font-size: 1pc; /* span debe de tener un tamaño de letra de 1 pica */
+}
+#lateral{
+    width: 200px;
+    height: 200px;
+    background: paleturquoise;
+    margin: 0.5in;
+}
+.lateral{
+    width: 200px;
+    height: 200px;
+    background: yellow;
+}
